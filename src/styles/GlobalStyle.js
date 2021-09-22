@@ -14,6 +14,10 @@ const GlobalStyled = createGlobalStyle`
   --font-light-color: #a4acc4;
   --font-dark-color: #313131;
   --font-dark-color-2: #151515;
+  --sidebar-dark-color: #191D2B;
+  --scrollbar-bg-color: #383838;
+  --scrollbar-thump-color: #6b6b6b;
+  --scrollbar-track-color: #383838;
 }
 
   *{
