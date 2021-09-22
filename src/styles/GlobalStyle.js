@@ -26,10 +26,17 @@ const GlobalStyled = createGlobalStyle`
   box-sizing: border-box;
   list-style: none;
   text-decoration: none;
+  font-family: 'Nunito', sans-serif;
   }
   
   body{
   background-color: var(--background-dark-color);
+  color: var(--font-light-color);
+  }
+  
+  a{
+  font-family: inherit;
+  color: inherit;
   }
 `;
 
