@@ -27,6 +27,7 @@ const GlobalStyled = createGlobalStyle`
   list-style: none;
   text-decoration: none;
   font-family: 'Nunito', sans-serif;
+  font-size: 1.2rem;
   }
   
   body{
@@ -37,6 +38,7 @@ const GlobalStyled = createGlobalStyle`
   a{
   font-family: inherit;
   color: inherit;
+  font-size: inherit;
   }
 `;
 
